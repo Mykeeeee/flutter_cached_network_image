@@ -13,6 +13,7 @@ dependencies:
     sdk: flutter
   flutter_cache_manager: 
     git: https://github.com/juntofoundation/flutter_cache_manager.git
+    ref: junto-cache-manager
 
 dev_dependencies:
   pedantic: "^1.8.0+1"
